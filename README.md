@@ -2,7 +2,7 @@
 
 💻 Final Year CSE Student | 🤖 AI/ML Enthusiast | 🌐 Full-Stack Developer
 
-## About Me
+# About Me
 🎓 Final Year B.E. Computer Science Student at Angadi Institute of Technology and Management
 🤖 Passionate about solving real-world problems with Machine Learning 
 🛠️ Experienced in building ML pipelines using TensorFlow, PyTorch, scikit-learn
@@ -13,7 +13,7 @@
 
 📍 Location: Belagavi, Karnataka, India
 
-## My Projects 
+# My Projects 
 # 🤖 Black Line Following & Obstacle Avoidance Robot
 Designed and developed an autonomous robot using microcontrollers, IR sensors, and ultrasonic sensors.
 Features: Real-time line tracking & obstacle avoidance with decision-making algorithms.
@@ -43,7 +43,7 @@ Git • GitHub • VS Code • Google Colab • Jupyter • Kaggle
 
 🎨 Others:
 Matplotlib • Seaborn • Flask • Streamlit • HTML5 • CSS3
-## lt's Connect
+# lt's Connect
 
 # 🔗 LinkedIn : www.linkedin.com/in/anand-kumbar07
 
@@ -51,4 +51,4 @@ Matplotlib • Seaborn • Flask • Streamlit • HTML5 • CSS3
 
 # 📧 Email Me : kumbaranand007@gmail.com
 
-                                                                                      ⚡ “Build. Break. Innovate.” 🚀 
+                                                            ⚡ “Build. Break. Innovate.” 🚀 
