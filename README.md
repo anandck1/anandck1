@@ -4,9 +4,13 @@
 
 # About Me
 🎓 Final Year B.E. Computer Science Student at Angadi Institute of Technology and Management
+
 🤖 Passionate about solving real-world problems with Machine Learning 
+
 🛠️ Experienced in building ML pipelines using TensorFlow, PyTorch, scikit-learn, SpeechRecognition, pyttsx3 
+
 🌐 Comfortable with Flask, HTML/CSS, and Full-Stack Development
+
 🔍 Always exploring new technologies and working on innovative projects 
 
 📫 Email: kumbaranand007@gmail.com
