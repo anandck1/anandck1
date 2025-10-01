@@ -44,11 +44,10 @@ Git • GitHub • VS Code • Google Colab • Jupyter • Kaggle
 🎨 Others:
 Matplotlib • Seaborn • Flask • Streamlit • HTML5 • CSS3
 # lt's Connect
+🔗 LinkedIn : www.linkedin.com/in/anand-kumbar07
 
-# 🔗 LinkedIn : www.linkedin.com/in/anand-kumbar07
+🐙 GitHub : https://github.com/anandck1
 
-# 🐙 GitHub : https://github.com/anandck1
-
-# 📧 Email Me : kumbaranand007@gmail.com
+📧 Email Me : kumbaranand007@gmail.com
 
                                                             ⚡ “Build. Break. Innovate.” 🚀 
