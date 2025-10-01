@@ -18,11 +18,13 @@
 Designed and developed an autonomous robot using microcontrollers, IR sensors, and ultrasonic sensors.
 Features: Real-time line tracking & obstacle avoidance with decision-making algorithms.
 Skills Gained: Embedded systems, robotics, sensor integration — valuable for AI, IoT & automation.
+
  🧠 IRIS: Intelligent Responsive Interface Solution (Desktop Assistant)
 A voice-controlled desktop assistant to control apps, search the web, send emails, play music, show weather updates & more.
 Tech: Python, Speech Recognition, Text-to-Speech
 Highlights: Fast, privacy-focused, user-friendly interface.
 Skills Gained: Python, AI, software development, user interaction design.
+
  📊 Student Dropout Risk Predictor
 Developed an ML-based predictive system to identify students at risk of academic dropout.
 Tech: Flask, SQLite, scikit-learn, Pandas, ReportLab
